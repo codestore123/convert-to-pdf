@@ -1,0 +1,31 @@
+{
+  "name": "exltodoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pdf-lib/fontkit": "^1.1.1",
+    "@pspdfkit/nodejs": "^0.0.5",
+    "docx-pdf": "^0.0.1",
+    "docxtemplater": "^3.46.2",
+    "express": "^4.19.2",
+    "firebase-admin": "^12.0.0",
+    "html-pdf": "^3.0.1",
+    "jszip": "^3.10.1",
+    "mammoth": "^1.7.1",
+    "multer": "^1.4.5-lts.1",
+    "node-buffer": "^1.0.3",
+    "pdf-creator-node": "^2.3.5",
+    "pdf-lib": "^1.17.1",
+    "pdfmake": "^0.2.10",
+    "pizzip": "^3.1.7",
+    "puppeteer": "^22.6.5",
+    "xlsx": "^0.18.5"
+  }
+}
